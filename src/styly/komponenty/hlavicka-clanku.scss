@@ -1,0 +1,43 @@
+.hlavicka-clanku {
+	position: relative;
+	display: grid;
+	align-items: center;
+	justify-content: center;
+	aspect-ratio: 4 / 1;
+	margin-bottom: 2rem;
+
+	&::after {
+		content: '';
+		position: absolute;
+		top: 0;
+		left: 0;
+		right: 0;
+		bottom: 0;
+		background-image: linear-gradient(
+			to bottom,
+			rgba(0, 0, 0, 0),
+			rgba(0, 0, 0, 0.6),
+			rgba(0, 0, 0, 0.8)
+		);
+	}
+
+	&__nadpis {
+		position: relative;
+		z-index: 1;
+		color: #ffffff;
+		font-size: min(3rem, 7vw);
+		font-weight: normal;
+		margin: 0;
+	}
+
+	&__obrazek {
+		position: absolute;
+		top: 0;
+		left: 0;
+		right: 0;
+		bottom: 0;
+		width: 100%;
+		height: 100%;
+		object-fit: cover;
+	}
+}

@@ -4,7 +4,13 @@ pagination:
   data: clanky
   size: 1
   alias: clanek
-permalink: "/clanek/{{ clanek.nadpis|slug }}/"
+permalink: "/clanek/{{ clanek.nadpis | slug }}/"
 ---
 
-<h2>Článek {{ clanek.nadpis }}</h2>
+<article>
+  {% include "hlavicka-clanku.njk" %}
+
+  <div class="obsah">
+    {{ clanek.obsah | safe }}
+  </div>
+</article>

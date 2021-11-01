@@ -1,8 +1,62 @@
 [
 	{
-		"nadpis": "První článek"
+		"nadpis": "Na premiéře",
+		"obrazek": {
+			"soubor": "divadlo.jpg",
+			"sirka": 800,
+			"vyska": 1200,
+			"popisek": "divadlo"
+		},
+		"obsah": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque pulvinar luctus gravida. Ut consectetur sapien cursus leo lobortis, nec tristique ligula dapibus. Vivamus id urna non nibh rhoncus mollis mollis ut magna. Vestibulum in posuere velit. Nunc eget turpis urna. Sed orci nunc, porttitor et laoreet sed, mattis sed odio. Phasellus porta convallis leo, sit amet pharetra neque. Duis sollicitudin magna vitae odio finibus, id molestie lorem mattis. Aliquam erat volutpat. Proin sed vulputate lacus. In elementum ex ut varius posuere. In non ullamcorper ipsum, et cursus orci. Nam consectetur est lectus, sed semper justo aliquet sit amet. Curabitur hendrerit vitae augue semper lacinia. Pellentesque in laoreet lectus, ac ultrices libero.</p><p>Donec bibendum tempor lorem, eget egestas justo tempus sit amet. Maecenas consequat felis at diam dictum tincidunt. Etiam luctus, erat non gravida aliquet, ante purus vulputate purus, a mollis nisl felis a nisi. Curabitur placerat commodo mauris tristique sollicitudin. In sapien dolor, molestie ac tristique at, tempor vel ligula. Fusce ultricies massa vel augue auctor bibendum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis et est id ante blandit tristique. Nulla condimentum leo egestas lectus tempus gravida. Suspendisse sem mi, commodo a massa id, fringilla sodales sem. Aenean sagittis eros arcu, eu auctor turpis vestibulum quis.</p>"
 	},
 	{
-		"nadpis": "Druhý článek"
+		"nadpis": "Poprvé na lyžích",
+		"obrazek": {
+			"soubor": "hory.jpg",
+			"sirka": 800,
+			"vyska": 600,
+			"popisek": "hory"
+		},
+		"obsah": "<p>Nulla egestas ipsum at tortor finibus posuere. Ut nec tortor et nisi vehicula aliquam. Quisque dapibus tellus et mauris tempus, nec dignissim eros ultrices. Vivamus id augue sit amet eros vestibulum varius ut nec leo. Vestibulum sit amet ullamcorper nisi. Phasellus vel turpis elit. Curabitur tortor ante, bibendum nec urna sed, maximus mollis ipsum. Ut et nisl vel ante vehicula pretium quis eu mi. Morbi nunc mauris, semper vitae metus nec, eleifend placerat leo. Fusce porta sapien quis varius convallis. In orci nulla, lacinia id tellus sed, luctus lacinia sapien. Vivamus in justo justo. Donec sagittis risus in porta rutrum. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Aliquam sed fringilla lorem, quis vulputate odio. Mauris tristique enim eget porta interdum.</p><p>Mauris ut dignissim diam, vitae malesuada magna. Morbi nunc nulla, iaculis lobortis dictum eu, rutrum sed purus. Nulla sed massa id turpis lobortis tempor in ut nunc. Proin finibus semper ligula, eu posuere mauris lacinia facilisis. Ut consequat, odio a porttitor facilisis, neque elit posuere odio, non commodo lectus augue in neque. Duis in lacus in urna pellentesque porttitor. Vivamus id mi in justo interdum iaculis. In hac habitasse platea dictumst. Nulla facilisi. In hendrerit convallis mauris, id condimentum sapien egestas nec. Suspendisse cursus tortor urna, id dignissim sem rhoncus consequat. Integer nec enim at neque gravida fringilla et eget nulla.</p>"
+	},
+	{
+		"nadpis": "Podzemní jezero",
+		"obrazek": {
+			"soubor": "jeskyne.jpg",
+			"sirka": 800,
+			"vyska": 533,
+			"popisek": "jeskyně"
+		},
+		"obsah": "<p>Phasellus sit amet neque nec dolor ornare rutrum. Pellentesque pulvinar faucibus pellentesque. Integer id quam semper, cursus est non, rhoncus enim. Nullam blandit mattis suscipit. Integer at venenatis metus, a malesuada risus. Nullam tincidunt a nisi vitae condimentum. Nullam tincidunt vitae libero ullamcorper commodo. Nunc finibus pretium massa, vitae porttitor lectus. Vivamus vitae pretium augue. Nullam id quam elit. Ut ornare pellentesque imperdiet. Morbi efficitur, lectus id molestie tristique, ipsum odio pulvinar justo, sit amet efficitur ligula urna quis ligula. Phasellus sit amet dui metus. Morbi malesuada, leo sed ultricies auctor, est sapien convallis magna, faucibus gravida ante risus vel purus. Vivamus consequat enim sed sagittis scelerisque. Sed non lacus quis erat condimentum efficitur.</p>"
+	},
+	{
+		"nadpis": "Na návštěvě v knihovně",
+		"obrazek": {
+			"soubor": "knihy.jpg",
+			"sirka": 800,
+			"vyska": 469,
+			"popisek": "knihy"
+		},
+		"obsah": "<p>Nunc malesuada ut ipsum nec aliquet. Nulla luctus tortor nec neque accumsan, ut dignissim lacus mollis. Suspendisse a leo at nisi elementum egestas. Suspendisse et venenatis tortor. Sed bibendum lacus ac risus congue dignissim vel non risus. Praesent dignissim metus eleifend posuere tempus. Fusce id odio ut nibh vehicula feugiat eget ac magna. Aliquam gravida fringilla dolor et sodales. Nunc consectetur eget odio fringilla accumsan. Maecenas vel varius turpis.</p><p>Suspendisse potenti. Mauris facilisis, nulla eu mollis tincidunt, ante libero venenatis erat, ac semper enim lacus ut dui. Integer non vulputate neque. Vestibulum mollis nibh tortor, et iaculis est aliquam sit amet. Vestibulum laoreet lacinia accumsan. Pellentesque gravida erat vitae sapien tincidunt efficitur. Nulla facilisi. Mauris quis aliquet dui. Maecenas consequat lacus eu metus maximus vulputate. Donec viverra, elit a vulputate mattis, tortor lectus pharetra lectus, vel euismod enim est in tellus.</p><p>Phasellus ac interdum dui, nec feugiat lorem. Phasellus nisi magna, bibendum ac sodales id, accumsan quis urna. In eget velit malesuada, porttitor ligula vel, interdum tortor. Proin eu massa at mauris vehicula posuere eget venenatis mauris. Aenean quis erat odio. Nunc dignissim, purus consequat placerat volutpat, velit risus vulputate nibh, in rutrum mi tellus vel est. Curabitur mollis, lacus ac molestie mattis, justo enim hendrerit ex, ut dapibus nisi libero feugiat nisi. Integer egestas fermentum odio, quis porta eros gravida in. Phasellus in tellus libero. Morbi eleifend augue ut pharetra euismod. Nunc et convallis quam. Donec quis vulputate ante. Maecenas tempus, arcu maximus maximus consequat, sapien est blandit dui, at rutrum tortor ipsum id eros.</p>"
+	},
+	{
+		"nadpis": "Hledání hub",
+		"obrazek": {
+			"soubor": "les.jpg",
+			"sirka": 800,
+			"vyska": 533,
+			"popisek": "knihy"
+		},
+		"obsah": "<p>Cras pulvinar nibh et congue condimentum. Sed pretium augue et mauris luctus, sit amet tincidunt odio aliquam. Duis consectetur laoreet enim, ut rhoncus massa aliquet nec. Fusce interdum lorem augue, in suscipit risus rutrum in. Nulla facilisi. Donec accumsan, tellus eu laoreet varius, lectus lectus sagittis lectus, vitae volutpat neque tortor eu libero. Proin eu feugiat ligula, ac pretium leo. Nunc lacinia, orci sed pulvinar porttitor, dui nisl aliquet massa, quis sodales eros odio ac neque.</p><p>Donec at enim odio. Nulla felis ex, commodo sed viverra id, tempor in quam. Etiam convallis nunc ut egestas tristique. Fusce tristique mauris tellus, eget finibus metus pharetra in. Donec eu mauris viverra, iaculis nisl ut, lacinia sem. Cras quis maximus risus, ac mollis nunc. Phasellus placerat ultricies turpis in tincidunt. Donec tincidunt turpis eget pulvinar tristique.</p>"
+	},
+	{
+		"nadpis": "Dovolená",
+		"obrazek": {
+			"soubor": "plaz.jpg",
+			"sirka": 800,
+			"vyska": 533,
+			"popisek": "pláž"
+		},
+		"obsah": "<p>Cras pulvinar nibh et congue condimentum. Sed pretium augue et mauris luctus, sit amet tincidunt odio aliquam. Duis consectetur laoreet enim, ut rhoncus massa aliquet nec. Fusce interdum lorem augue, in suscipit risus rutrum in. Nulla facilisi. Donec accumsan, tellus eu laoreet varius, lectus lectus sagittis lectus, vitae volutpat neque tortor eu libero. Proin eu feugiat ligula, ac pretium leo. Nunc lacinia, orci sed pulvinar porttitor, dui nisl aliquet massa, quis sodales eros odio ac neque.</p><p>Donec at enim odio. Nulla felis ex, commodo sed viverra id, tempor in quam. Etiam convallis nunc ut egestas tristique. Fusce tristique mauris tellus, eget finibus metus pharetra in. Donec eu mauris viverra, iaculis nisl ut, lacinia sem. Cras quis maximus risus, ac mollis nunc. Phasellus placerat ultricies turpis in tincidunt. Donec tincidunt turpis eget pulvinar tristique.</p>"
 	}
 ]

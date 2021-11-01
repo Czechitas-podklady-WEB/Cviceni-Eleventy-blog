@@ -2,12 +2,6 @@
 layout: zakladni
 ---
 
-<h2>Úvod</h2>
+<h2>Všechny články</h2>
 
-<ul>
-	{% for clanek in clanky %}
-		<li>
-			<a href="/clanek/{{ clanek.nadpis|slug }}/">{{ clanek.nadpis }}</a>
-		</li>
-	{% endfor %}
-</ul>
+{% include "clanky.njk" %}
