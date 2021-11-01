@@ -5,10 +5,9 @@ layout: zakladni
 <h2>Úvod</h2>
 
 <ul>
-	<li>
-		<a href="/clanek/prvni/">První</a>
-	</li>
-	<li>
-		<a href="/clanek/druhy/">Druhý</a>
-	</li>
+	{% for clanek in clanky %}
+		<li>
+			<a href="/clanek/{{ clanek.nadpis|slug }}/">{{ clanek.nadpis }}</a>
+		</li>
+	{% endfor %}
 </ul>
