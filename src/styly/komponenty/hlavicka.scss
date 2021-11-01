@@ -1,5 +1,6 @@
 .hlavicka {
 	padding: $mezera-od-okraju $mezera-od-okraju;
+	font-family: $nadpisovy-font;
 
 	&__obsah {
 		margin: 0 auto;
@@ -11,12 +12,27 @@
 	}
 
 	&__odkaz {
+		position: relative;
 		color: inherit;
 		text-decoration: none;
+		font-size: 1.2rem;
+
+		&::before {
+			content: '';
+			position: absolute;
+			left: 0;
+			right: 0;
+			bottom: -3px;
+			border-bottom: 3px solid $hlavni-barva;
+			opacity: 0;
+			transition: opacity 0.2s;
+		}
 
 		&:hover,
 		&:focus {
-			text-decoration: underline;
+			&::before {
+				opacity: 1;
+			}
 		}
 	}
 
